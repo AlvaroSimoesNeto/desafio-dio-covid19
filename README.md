@@ -1,4 +1,7 @@
-Ttartis project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este  é um projeto do desafio da Dio.me  sobe  criar um app  no ReactJS, sobre acompanhamento  do COVID19  em alguns  paises, fiz o  projeto  em modo espelho acompanhei e  segui o passo a passo  da aula  em video!
+Segue  abaixo alguns  links  uteis ja fornecido pelo  instrutor  Bruno Carneiro.
+
+
 
 ## Available Scripts
 
